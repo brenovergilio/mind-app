@@ -4,5 +4,9 @@ class ContentsController < ApplicationController
     def index
         @contents = current_user.contents
     end
+
+    def new
+        @content = Content.new
+    end
   end
   
