@@ -1,24 +1,5 @@
-# README
+# Mind-App Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Aplicação simples proposta belo bootcamp Impulso Fullstack da Digital Innovation One para aprender conceitos de desenvolvimento web utilizando Ruby on Rails
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Link para aplicação online na plataforma Heroku](https://mind-app-rails.herokuapp.com/)
